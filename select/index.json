@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "I DO ME",
+  "base_artist": "KiiiKiii",
+  "createdAt": "2026-02-07T02:38:45.917596Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Do Me . . . You Do You",
+      "artist": "IDK",
+      "has_synced": true,
+      "path": "select/01_I_Do_Me_._._._You_Do_You_IDK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I do me - Solo Version",
+      "artist": "MAMAMOO feat. Hwa Sa",
+      "has_synced": true,
+      "path": "select/02_I_do_me_-_Solo_Version_MAMAMOO_feat._Hwa_Sa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I do me",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/03_I_do_me_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Do Me (Hwasa solo) [내맘이야]",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/04_I_Do_Me_(Hwasa_solo)_[내맘이야]_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Do Me",
+      "artist": "Frankee",
+      "has_synced": false,
+      "path": "select/05_I_Do_Me_Frankee.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Do Me",
+      "artist": "curse feat. Luci4",
+      "has_synced": false,
+      "path": "select/06_I_Do_Me_curse_feat._Luci4.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Do Me",
+      "artist": "Luci4",
+      "has_synced": false,
+      "path": "select/07_I_Do_Me_Luci4.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Do Me (Hwasa Solo)",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/08_I_Do_Me_(Hwasa_Solo)_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Do Me (Hwa Sa Solo)",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/09_I_Do_Me_(Hwa_Sa_Solo)_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "내맘이야 (I Do Me) (화사 Solo)",
+      "artist": "Mamamoo (마마무)",
+      "has_synced": true,
+      "path": "select/10_내맘이야_(I_Do_Me)_(화사_Solo)_Mamamoo_(마마무).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Do Me",
+      "artist": "Malou Prytz",
+      "has_synced": true,
+      "path": "select/11_I_Do_Me_Malou_Prytz.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I do me (Solo Version) [feat. Hwa Sa]",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/12_I_do_me_(Solo_Version)_[feat._Hwa_Sa]_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I DO ME",
+      "artist": "KiiiKiii",
+      "has_synced": true,
+      "path": "select/13_I_DO_ME_KiiiKiii.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I DO ME",
+      "artist": "KiiiKiii",
+      "has_synced": true,
+      "path": "select/14_I_DO_ME_KiiiKiii.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Do Me",
+      "artist": "Kiiikiii",
+      "has_synced": true,
+      "path": "select/15_I_Do_Me_Kiiikiii.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I DO ME",
+      "artist": "KiiiKiii",
+      "has_synced": false,
+      "path": "select/16_I_DO_ME_KiiiKiii.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I DO ME",
+      "artist": "KiiiKiii",
+      "has_synced": false,
+      "path": "select/pl_01_I_DO_ME_KiiiKiii.txt"
+    }
+  ]
+}
